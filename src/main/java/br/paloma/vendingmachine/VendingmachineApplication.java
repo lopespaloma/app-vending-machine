@@ -13,7 +13,7 @@ public class VendingmachineApplication {
 		public static void main(String[] args) {
 			Scanner scanner = new Scanner(System.in);
 
-			int precoA = 6;
+			int precoA = 6; //teste
 			int precoB = 7;
 			int precoC = 8;
 			int limite = 10;
